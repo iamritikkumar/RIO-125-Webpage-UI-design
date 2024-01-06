@@ -1,1 +1,1 @@
-Welcome to the Internship Project Webpage UI Design repository! This project focuses on creating an intuitive and visually appealing user interface for a webpage.
+The Project Webpage UI Design focuses on creating a sleek, modern, and user-friendly interface for webpages. With a responsive layout catering to various devices, intuitive navigation, and emphasis on accessibility, this project aims to elevate the visual appeal and user experience of websites.
